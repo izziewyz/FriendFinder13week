@@ -1,0 +1,25 @@
+{
+  "name": "friendfinder13week",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/izziewyz/FriendFinder13week.git"
+  },
+  "author": "izzie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/izziewyz/FriendFinder13week/issues"
+  },
+  "homepage": "https://github.com/izziewyz/FriendFinder13week#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "nodemon": "^1.11.0",
+    "path": "^0.12.7"
+  }
+}
